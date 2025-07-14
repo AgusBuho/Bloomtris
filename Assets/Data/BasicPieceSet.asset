@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b0cacda6aa85e241abca4c62d78ff4c, type: 3}
   m_Name: BasicPieceSet
   m_EditorClassIdentifier: 
-  piecePrefabs: []
+  piecePrefabs:
+  - m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
