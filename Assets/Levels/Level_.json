@@ -1,0 +1,114 @@
+{
+    "blocks": [
+        {
+            "id": "RoadStraight (2)",
+            "prefab": {
+                "instanceID": 53026
+            },
+            "position": {
+                "x": -9.899999618530274,
+                "y": 2.4849095344543459,
+                "z": 15.979999542236329
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            }
+        },
+        {
+            "id": "RoadStraight",
+            "prefab": {
+                "instanceID": 53026
+            },
+            "position": {
+                "x": -0.4863238036632538,
+                "y": 2.4849095344543459,
+                "z": 15.979999542236329
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            }
+        },
+        {
+            "id": "RoadStraight (1)",
+            "prefab": {
+                "instanceID": 53026
+            },
+            "position": {
+                "x": 9.800000190734864,
+                "y": 2.4849095344543459,
+                "z": 15.979999542236329
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 5.0,
+                "y": 5.0,
+                "z": 5.0
+            }
+        }
+    ],
+    "decorations": [
+        {
+            "id": "WorldPlane",
+            "prefab": {
+                "instanceID": 77958
+            },
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1000.0,
+                "z": 500.0
+            }
+        }
+    ],
+    "environment": {
+        "ambientLight": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "skybox": {
+            "instanceID": 0
+        },
+        "enableFog": false,
+        "fogMode": 1,
+        "fogColor": {
+            "r": 0.5,
+            "g": 0.5,
+            "b": 0.5,
+            "a": 1.0
+        },
+        "fogStart": 0.0,
+        "fogEnd": 300.0,
+        "ambientAudio": {
+            "instanceID": 0
+        }
+    }
+}
